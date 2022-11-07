@@ -2,8 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xhfkd00&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhfkd00)](https://github.com/xhfkd00/github-readme-stats)
-
 <!--
 **xhfkd00/xhfkd00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
